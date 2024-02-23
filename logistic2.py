@@ -29,4 +29,4 @@ y_pred = clf.predict(X_test)
 
 acc = accuracy_score(y_test, y_pred)
 print("Logistic Regression model accuracy (in %):", acc*100)
-
+#12334565
